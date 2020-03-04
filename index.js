@@ -195,7 +195,11 @@ class huya_danmu extends events {
                     let wup = new Taf.Wup()
                     wup.decode(command.vData.buffer)
                     let map = new (TafMx.WupMapping[wup.sFuncName])()
-                    wup.readStruct('tRsp', map, TafMx.WupMapping[wup.sFuncName])
+                    try {
+                        wup.readStruct('tRsp', map, TafMx.WupMapping[wup.sFuncName])
+                    } catch (e) {
+
+                    }
                     this._emitter.emit(wup.sFuncName, map)
                     // console.log(wup.sFuncName)
                     break
@@ -206,9 +210,13 @@ class huya_danmu extends events {
                     msg.readFrom(stream)
                     stream = new Taf.JceInputStream(msg.sMsg.buffer)
                     if (TafMx.UriMapping[msg.iUri]) {
-                        let map = new (TafMx.UriMapping[msg.iUri])()
-                        map.readFrom(stream)
-                        this._emitter.emit(msg.iUri, map)
+                        try {
+                            let map = new (TafMx.UriMapping[msg.iUri])()
+                            map.readFrom(stream)
+                            this._emitter.emit(msg.iUri, map)
+                        } catch (e) {
+
+                        }
                         // if(msg.iUri != 1400 && msg.iUri != 6501 && msg.iUri != 8006 && msg.iUri != 6210){
                         //     console.log(msg.iUri)
                         //     console.log(map.vVipBarItem)
