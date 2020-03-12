@@ -1,0 +1,22 @@
+{
+    "iItemType": 20114,
+    "strPayId": "2020031223012905001117QAD",
+    "iItemCount": 10,
+    "lPresenterUid": 341936495,
+    "lSenderUid": 1199514039037,
+    "sPresenterNick": "Cajin西法ob解说",
+    "sSenderNick": "iBag",
+    "sSendContent": "",
+    "iItemCountByGroup": 10,
+    "iItemGroup": 1,
+    "iSuperPupleLevel": 0,
+    "iComboScore": 0,
+    "iDisplayInfo": 8,
+    "iEffectType": 0,
+    "iSenderIcon": "https://huyaimg.msstatic.com/avatar/1016/f3/63ea0793e5d4c6d6735d39ce4a3d7b_180_135.jpg?1555591935",
+    "iPresenterIcon": "https://huyaimg.msstatic.com/avatar/1020/b7/964bc4807a32b5984c18e33f369d31_180_135.jpg?1583910185",
+    "iTemplateType": 5,
+    "sExpand": "<expand><prop nobel_level='2'/></expand>",
+    "bBusi": false,
+    "iColorEffectType": 0
+}

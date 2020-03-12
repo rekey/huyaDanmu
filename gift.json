@@ -1,0 +1,3382 @@
+{
+    "vPropsItemList": {
+        "proto": {
+            "iPropsId": 0,
+            "sPropsName": "",
+            "iPropsYb": 0,
+            "iPropsGreenBean": 0,
+            "iPropsWhiteBean": 0,
+            "iPropsGoldenBean": 0,
+            "iPropsRed": 0,
+            "iPropsPopular": 0,
+            "iPropsExpendNum": -1,
+            "iPropsFansValue": -1,
+            "vPropsNum": {
+                "proto": {},
+                "value": []
+            },
+            "iPropsMaxNum": 0,
+            "iPropsBatterFlag": 0,
+            "vPropsChannel": {
+                "proto": {},
+                "value": []
+            },
+            "sPropsToolTip": "",
+            "vPropsIdentity": {
+                "proto": {
+                    "iPropsIdType": 0,
+                    "sPropsPic18": "",
+                    "sPropsPic24": "",
+                    "sPropsPicGif": "",
+                    "sPropsBannerResource": "",
+                    "sPropsBannerSize": "",
+                    "sPropsBannerMaxTime": "",
+                    "sPropsChatBannerResource": "",
+                    "sPropsChatBannerSize": "",
+                    "sPropsChatBannerMaxTime": "",
+                    "iPropsChatBannerPos": 0,
+                    "iPropsChatBannerIsCombo": 0,
+                    "sPropsRollContent": "",
+                    "iPropsBannerAnimationstyle": 0,
+                    "sPropFaceu": "",
+                    "sPropH5Resource": "",
+                    "sPropsWeb": "",
+                    "sWitch": 0,
+                    "sCornerMark": "",
+                    "iPropViewId": 0,
+                    "sPropStreamerResource": "",
+                    "iStreamerFrameRate": 0,
+                    "sPropsPic108": "",
+                    "sPcBannerResource": ""
+                },
+                "value": []
+            },
+            "iPropsWeights": 0,
+            "iPropsLevel": 0,
+            "tDisplayInfo": {
+                "iMarqueeScopeMin": 0,
+                "iMarqueeScopeMax": 0,
+                "iCurrentVideoNum": 0,
+                "iCurrentVideoMin": 0,
+                "iCurrentVideoMax": 0,
+                "iAllVideoNum": 0,
+                "iAllVideoMin": 0,
+                "iAllVideoMax": 0,
+                "iCurrentScreenNum": 0,
+                "iCurrentScreenMin": 0,
+                "iCurrentScreenMax": 0
+            },
+            "tSpecialInfo": {
+                "iFirstSingle": 0,
+                "iFirstGroup": 0,
+                "sFirstTips": "",
+                "iSecondSingle": 0,
+                "iSecondGroup": 0,
+                "sSecondTips": "",
+                "iThirdSingle": 0,
+                "iThirdGroup": 0,
+                "sThirdTips": "",
+                "iWorldSingle": 0,
+                "iWorldGroup": 0
+            },
+            "iPropsGrade": 0,
+            "iPropsGroupNum": 0,
+            "sPropsCommBannerResource": "",
+            "sPropsOwnBannerResource": "",
+            "iPropsShowFlag": 0,
+            "iTemplateType": 0,
+            "iShelfStatus": 0,
+            "sAndroidLogo": "",
+            "sIpadLogo": "",
+            "sIphoneLogo": "",
+            "sPropsCommBannerResourceEx": "",
+            "sPropsOwnBannerResourceEx": "",
+            "vPresenterUid": {
+                "proto": {},
+                "value": []
+            },
+            "vPropView": {
+                "proto": {
+                    "id": 0,
+                    "name": "",
+                    "uids": {
+                        "kproto": {},
+                        "vproto": {},
+                        "value": {}
+                    },
+                    "tips": ""
+                },
+                "value": []
+            },
+            "iFaceUSwitch": 0
+        },
+        "value": [
+            {
+                "iPropsId": 20205,
+                "sPropsName": "周年蛋糕",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "周年快乐！！！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1__18_1552619918.jpg&29012b980b789af8786393006eb74328",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1__24_1554278031.jpg&ae53d8cd1b40307b0a7a21a6bc706b22",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1__gif_1552619918.gif&611e701a7eb71d3252d8cda791371a10",
+                            "sPropsBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20205_1_0_prop_banner_1494558407.swf&18ffb10cf02c3dc37c16aa2539b57100",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1_0_prop_h5_1552619919.webp&e98132dd1c81e72f4514bba85e12cc1d",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1__45_1552619918.jpg&158388b1cfe87f702b8a067273de0363",
+                            "sWitch": 0,
+                            "sCornerMark": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1_0_prop_corner_mark_1559049666.png",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1_0_prop_streamer_resource_1552619919.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20205_1__108_1552620250.jpg&3d6d2b95f760ec51699c20474f2d3cdb",
+                            "sPcBannerResource": ""
+                        }
+                    ]
+                },
+                "iPropsWeights": 55,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 2,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 99,
+                "iShelfStatus": 2,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20205-1-android-1552620204.zip",
+                "sIpadLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20205-1-ipad-1494561237.zip",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20205-1-iphone-1552620206.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": [
+                        2372269990
+                    ]
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "周年蛋糕",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "周年快乐！！！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20102,
+                "sPropsName": "生日蛋糕",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "生日快乐！！！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "http://huyaimg.msstatic.com/cdnimage/actprop/20102_0_18_1484190670.jpg&29a34499f2adc362b0cf8b5cf2fb36e6",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20102_1__24_1554277996.jpg&0c42e01e85d1da07306b531b340f0b22",
+                            "sPropsPicGif": "http://huyaimg.msstatic.com/cdnimage/actprop/20102_1__gif_1502334499.gif&10ddde65cc6b5d815a663f992a7cb642",
+                            "sPropsBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20102_0_prop_banner_1484204954.swf&2176df6a59c18abf289cb56bc9287df2",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "http://huyaimg.msstatic.com/cdnimage/actprop/20102_0_prop_h5_1484190794.webp&b2c18d8a41806d11692bb230b1c65f97",
+                            "sPropsWeb": "http://huyaimg.msstatic.com/cdnimage/actprop/20102_0_45_1484190670.jpg&2599f135a6631d15c88d44fcce851540",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20102_1_0_prop_streamer_resource_1490672705.png",
+                            "iStreamerFrameRate": 25,
+                            "sPropsPic108": "",
+                            "sPcBannerResource": ""
+                        }
+                    ]
+                },
+                "iPropsWeights": 55,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 2,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 99,
+                "iShelfStatus": 2,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20102-android-1484290913.zip",
+                "sIpadLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20102-ipad-1484290316.zip",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20102-iphone-1484290745.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": [
+                        1199514187833
+                    ]
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "生日蛋糕",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "生日快乐！！！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20114,
+                "sPropsName": "宝剑",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "一个大宝剑不能解决的事情，就上两个",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1__18_1583293230.jpg&a9d4baa7511fac1ac29f4e008a05559e",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1__24_1583293230.jpg&1e7fca675a67535824f82252019d835a",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1__gif_1583293231.gif&381bce2fd80e4668a65f259e45eae577",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1_0_prop_banner_1583293232.swf&78c069161a0066f70bc9ed4a1df5d774",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1_0_prop_h5_1583293232.webp&e1545893486876a72f7871999b964c07",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1__45_1583293231.jpg&bf16ea0dd7dba9e213a0b772f9e16562",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1_0_prop_streamer_resource_1583293233.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1__108_1583293725.jpg&988b2ffd996ef179e4aa093c2632b27f",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20114_1_0_prop_pcclient_1583293233.zip&0110454b7c638e64f58412ba1d92410c"
+                        }
+                    ]
+                },
+                "iPropsWeights": 50,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 2,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20114-27-android-1573104767.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20114-27-iphone-1573104804.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "宝剑",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "一个大宝剑不能解决的事情，就上两个"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20241,
+                "sPropsName": "项圈",
+                "iPropsYb": 490,
+                "iPropsGreenBean": 4900,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 2352,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "我选择狗带",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "http://huyaimg.msstatic.com/cdnimage/actprop/20241_1__18_1498186768.jpg&57764f803f10d9aa2328c2bb28ed35bc",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20241_1__24_1554259919.jpg&b4daca1d8632ec7e9a7fe27aabc83985",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20241_1__gif_1527652538.gif&638d6fb92447538358ca5293d250190a",
+                            "sPropsBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20241_1_0_prop_banner_1498215621.swf&c059281aa2e2bcea66a2d6de8d99c359",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "http://huyaimg.msstatic.com/cdnimage/actprop/20241_1_0_prop_h5_1498186768.webp&ed04a48b27b599c4e88c2160f702b49a",
+                            "sPropsWeb": "http://huyaimg.msstatic.com/cdnimage/actprop/20241_1__45_1498217933.jpg&887c9e7b7b26dbeae2ff83f51aa13d03",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20241_1_0_prop_streamer_resource_1498188491.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "http://huyaimg.msstatic.com/cdnimage/actprop/20241_1__108_1504870297.jpg&0b0f7a133f2eeaac8284395e03d59201",
+                            "sPcBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20241_1_0_prop_pcclient_1507791022.zip&3704f541343c54c02a424bb6128e851d"
+                        }
+                    ]
+                },
+                "iPropsWeights": 38,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 519,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 520,
+                    "iAllVideoMax": 9999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 66,
+                    "iSecondGroup": 10,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 188,
+                    "iThirdGroup": 20,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 520,
+                    "iWorldGroup": 52
+                },
+                "iPropsGrade": 3,
+                "iPropsGroupNum": 10,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 0,
+                "iTemplateType": 129,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20241-1-android-1555766255.zip",
+                "sIpadLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20241-1-ipad-1498215135.zip",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20241-1-iphone-1555766251.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "项圈",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "我选择狗带"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 1
+            },
+            {
+                "iPropsId": 20323,
+                "sPropsName": "浪漫马车",
+                "iPropsYb": 30000,
+                "iPropsGreenBean": 300000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 144000,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": []
+                },
+                "iPropsMaxNum": 400,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "在马车上度过最浪漫的情人节！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1__18_1581647021.jpg&6d06d496da339604fdfb184d8211d5cd",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1__24_1581647021.jpg&376949ecfb85babc6a6a00ccaaff8dea",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1__gif_1581647022.gif&f397a2f5a13bb0b4563c17c51ad7de66",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1_0_prop_banner_1581401156.swf&2152de808b1f3ac0c04dd60c7ae8ba21",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1_0_prop_h5_1581647022.webp&8a56d2990612c80ee1b33182e641e201",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1__45_1581647021.jpg&c4850680e91d328f9913d0c02a3de7b0",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1_0_prop_streamer_resource_1581647026.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1__108_1581647535.jpg&05380b6a806b2003731fbb6ec6c59db6",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20323_1_0_prop_pcclient_1581647025.zip&f35cd5a073dfbc2a1681df5aef124b7d"
+                        }
+                    ]
+                },
+                "iPropsWeights": 36,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 9,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 10,
+                    "iAllVideoMax": 9999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 4,
+                    "iThirdGroup": 4,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 10,
+                    "iWorldGroup": 10
+                },
+                "iPropsGrade": 4,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 99,
+                "iShelfStatus": 2,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20323-1-android-1581647238.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20323-1-iphone-1581647475.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "浪漫马车",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "在马车上度过最浪漫的情人节！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20261,
+                "sPropsName": "上上签",
+                "iPropsYb": 1000,
+                "iPropsGreenBean": 10000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 0,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30
+                    ]
+                },
+                "iPropsMaxNum": 30,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "摇啊摇啊摇~",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20261_1__18_1535425887.jpg&7fb78e12aeefa55e1f98a6b8c5f48566",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20261_1__24_1554259984.jpg&930b610917b40db7dd44c00a7065ea64",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20261_1__gif_1535425888.gif&ef6ee40beb1cff5ebd5e44033bdbfaf6",
+                            "sPropsBannerResource": "",
+                            "sPropsBannerSize": "660*180",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20261_1__45_1535425888.jpg&bdc638977a0e6f5448b0a8d531ad2a37",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20261_1_0_prop_streamer_resource_1535425888.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20261_1__108_1535425957.jpg&d6bf50cf8527b1b6b79f2fb9a9b2f4b6",
+                            "sPcBannerResource": ""
+                        }
+                    ]
+                },
+                "iPropsWeights": 34,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 99,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 100,
+                    "iAllVideoMax": 9999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 0,
+                    "iThirdGroup": 0,
+                    "sThirdTips": "",
+                    "iWorldSingle": 100,
+                    "iWorldGroup": 0
+                },
+                "iPropsGrade": 3,
+                "iPropsGroupNum": 0,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 0,
+                "iTemplateType": 129,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20261-1-android-1535425940.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20261-1-iphone-1535425947.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "上上签",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "摇啊摇啊摇~"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20218,
+                "sPropsName": "法拉利",
+                "iPropsYb": 9900,
+                "iPropsGreenBean": 99000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 47520,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 1000,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "zoom zoom zoom！！！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_0_18_1470364571.jpg&2dcdad14237c71bb7d1048b3e9dffc10",
+                            "sPropsPic24": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_1__24_1499915764.jpg&63f37ec3dc07710417777bdc8940059d",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20218_1__gif_1527652560.gif&c95a97d5348321e20d1ce8cac26eee39",
+                            "sPropsBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_1_0_prop_banner_1498216507.swf&d42baf36a02c06d97f9ab5db34d127f0",
+                            "sPropsBannerSize": "740*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_1_0_prop_h5_1498216507.webp&e83d3ddd6e83953d90cc523b934fd095",
+                            "sPropsWeb": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_1__45_1498218037.jpg&ff9c254a2cc3f0270279f0cd2d3a5d2b",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_1_0_prop_streamer_resource_1498185100.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_1__108_1504870319.jpg&83d0c4b428aee776fa0b06b8e0b8b9f8",
+                            "sPcBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20218_1_0_prop_pcclient_1507791048.zip&457d8ed5e8a07988c5e8e3a937ae699a"
+                        }
+                    ]
+                },
+                "iPropsWeights": 32,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 24,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 25,
+                    "iAllVideoMax": 2000,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 10,
+                    "iThirdGroup": 10,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 25,
+                    "iWorldGroup": 25
+                },
+                "iPropsGrade": 5,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 0,
+                "iTemplateType": 129,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20218-1-android-1555766658.zip",
+                "sIpadLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20218-1-ipad-1498218229.zip",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20218-1-iphone-1555766654.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "法拉利",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "zoom zoom zoom！！！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20253,
+                "sPropsName": "壁咚",
+                "iPropsYb": 13140,
+                "iPropsGreenBean": 131400,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 63072,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 1000,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "你好，你需要男朋友吗？mua~",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1__18_1498187397.jpg&8190c4965308bca7a3f6b83790cdaa82",
+                            "sPropsPic24": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1__24_1499916113.jpg&8ea8eed0ee2ec0e2c3496ae766938aa7",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20253_1__gif_1527652570.gif&4a5491c9df5d9cdcf3af466687997df8",
+                            "sPropsBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1_0_prop_banner_1498215638.swf&b5ef6873279c90d9c8685a160c484528",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1_0_prop_h5_1498215841.webp&b8dcbf902038ec2073489778d0f058b2",
+                            "sPropsWeb": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1__45_1498217968.jpg&57171aa31f5cbcdaf3183690d84f961f",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1_0_prop_streamer_resource_1498215895.png",
+                            "iStreamerFrameRate": 15,
+                            "sPropsPic108": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1__108_1504870341.jpg&8cfcc118f0d0fd54e2717408048edaab",
+                            "sPcBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/20253_1_0_prop_pcclient_1507791057.zip&0b1e67f929790aeadaf60d72426addb0"
+                        }
+                    ]
+                },
+                "iPropsWeights": 30,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 24,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 25,
+                    "iAllVideoMax": 2000,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 10,
+                    "iThirdGroup": 10,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 25,
+                    "iWorldGroup": 25
+                },
+                "iPropsGrade": 5,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 0,
+                "iTemplateType": 129,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20253-1-android-1555766857.zip",
+                "sIpadLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20253-1-ipad-1498219604.zip",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20253-1-iphone-1555766853.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "壁咚",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "你好，你需要男朋友吗？mua~"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 4,
+                "sPropsName": "虎粮",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": 1000,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 1,
+                "iPropsPopular": 1,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 1,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "铲屎官，朕有点饿了",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1__18_1532944033.jpg&e236c22d9bdbe5d6d85427449a9f3e82",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1__24_1551927228.jpg&0671efdfe0900b423ab22e2a7116f73c",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1__gif_1532944034.gif&61a2e9ddfa2a376d922378d540f8df57",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1_0_prop_banner_1532944034.swf&ce18af362b9693e92a17e66b6d063d83",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "6000",
+                            "sPropsChatBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/4_0_chat_banner_1429775169.swf&86ed897c2161eeb643bb6d9335f477fc",
+                            "sPropsChatBannerSize": "310*70",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 1,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "<prop_roll_content><text name=\"sender_nick\" color=\"3ED9FF\" /><text name=\"送给\" color=\"3ED9FF\" /><text name=\"receiver_nick\" color=\"3ED9FF\" /><text name=\"\" color=\"3ED9FF\" /><text name=\"item_count\" color=\"3ED9FF\" /><text name=\"个\" color=\"3ED9FF\" /><image name=\"prop_icon\" /></prop_roll_content>",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1_0_prop_h5_1532944035.webp&e28cbe1a769f65ebc00f3ad18bb1bfa8",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1__45_1532944034.jpg&c861805db32173e99097f9240ff1404b",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1_0_prop_streamer_resource_1532944035.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1__108_1532944044.jpg&fb0d704bf5e3ccc9aeae8147e398af78",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/4_1_0_prop_pcclient_1532944035.zip&bef1ddb4eef7622ab608a8850c668c19"
+                        }
+                    ]
+                },
+                "iPropsWeights": 27,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 1,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-4-14-android-1569760926.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-4-14-iphone-1569760965.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "虎粮",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "铲屎官，朕有点饿了"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20200,
+                "sPropsName": "超火",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "这个主播超火的",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1__18_1569758442.jpg&caa58a2cb90ce1b305b3cb645ee27042",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1__24_1569758442.jpg&8d11eea7cd0c1044cd63a69e1971dcfc",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1__gif_1569758443.gif&d524bdde95d1ba5eb6ba0859565c0b10",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1_0_prop_banner_1567758959.swf&1b9ab4e5436ba2c6593d03af7f923c2e",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1_0_prop_h5_1569759608.webp&28694d1498c4063c4931d681874c4d3d",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1__45_1569758442.jpg&470e25d8fd62c2f329a0a5ca0fb60029",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1_0_prop_streamer_resource_1569758444.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1__108_1569758621.jpg&e5090b84ff5e154d30d745ff72fdb3c2",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20200_1_0_prop_pcclient_1569758443.zip&f70ecb5e667265fbd10590b1de2b136e"
+                        }
+                    ]
+                },
+                "iPropsWeights": 26,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 2,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 99,
+                "iShelfStatus": 2,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20200-7-android-1582428757.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20200-7-iphone-1582428808.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "超火",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "这个主播超火的"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20206,
+                "sPropsName": "荧光棒",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "代表月亮消灭你！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1__18_1550645313.jpg&accac1b3781deae2c28cded4b91333b5",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1__24_1551927372.jpg&9ac0b05730b322cfd38e321ba909c7c7",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1__gif_1550645314.gif&a8893dc0846c1b7a88c1451d516a6b39",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1_0_prop_banner_1550645314.swf&ea53021147f96e2ee7b2f7ec21e73c60",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1_0_prop_h5_1550645315.webp&14476d315ace82806d48ef2c69c0efb4",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1__45_1550645314.jpg&02fc57fc45aec7acc1491ae3eb7abe8a",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1_0_prop_streamer_resource_1550645315.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1__108_1550645324.jpg&547472d28660e2735409b325e5ef0529",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20206_1_0_prop_pcclient_1550645315.zip&48dbe85264e029be38e00f975a76033e"
+                        }
+                    ]
+                },
+                "iPropsWeights": 25,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 2,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20206-34-android-1579007446.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20206-34-iphone-1579007491.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "荧光棒",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "代表月亮消灭你！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20277,
+                "sPropsName": "血瓶",
+                "iPropsYb": 660,
+                "iPropsGreenBean": 6600,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 3168,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "来补充点洪荒之力吧！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1__18_1532856740.jpg&18f2a9b0931879cd59c85684e829a263",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1__24_1551927385.jpg&075279c944085ed5959caba8f1c34c5d",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1__gif_1532856741.gif&679640abad19a1b02a016097e7e23024",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1_0_prop_banner_1532856741.swf&ad0ea4931d2c544ac15c9f4be550ba76",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1_0_prop_h5_1532856742.webp&55ecdb0d3e59f47ad7c2c85bfcf0ac05",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1__45_1532948951.jpg&081f5ae3b2d4528fa0f19f5d3bee8415",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1_0_prop_streamer_resource_1532856743.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1__108_1532856820.jpg&77d6588540b768eeccb65888da1faad0",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20277_1_0_prop_pcclient_1532856742.zip&5fc6c9b0f172b2d2cfd6a9cf8cedc6f5"
+                        }
+                    ]
+                },
+                "iPropsWeights": 16,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 400,
+                    "iAllVideoMax": 9999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 66,
+                    "iSecondGroup": 10,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 188,
+                    "iThirdGroup": 20,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 400,
+                    "iWorldGroup": 40
+                },
+                "iPropsGrade": 3,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20277-1-android-1555764168.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20277-1-iphone-1555764170.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "血瓶",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "来补充点洪荒之力吧！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20275,
+                "sPropsName": "奖杯",
+                "iPropsYb": 660,
+                "iPropsGreenBean": 6600,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 3168,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "我可以摸你的奖杯吗？",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1__18_1532857073.jpg&244a68789c84083815f6b260a9a98dc3",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1__24_1551927767.jpg&0b2b0a565ed316e4e887b578c145a51e",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1__gif_1532857074.gif&642e304c92eef06d7375ecfc7f798887",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1_0_prop_banner_1532857074.swf&6e2ac064ff52772dd991953a9bc2a3e9",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1_0_prop_h5_1532857075.webp&a72b8c5d4c615a1e3141ae366427ac14",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1__45_1532857074.jpg&74c87aa656d37a576fe94fad31ad0b1e",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1_0_prop_streamer_resource_1532857076.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1__108_1532857169.jpg&862616849418f661fbe05b395e34bbd3",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20275_1_0_prop_pcclient_1532857075.zip&5386cd6e81711b95911177e8105ae256"
+                        }
+                    ]
+                },
+                "iPropsWeights": 14,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 400,
+                    "iAllVideoMax": 9999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 66,
+                    "iSecondGroup": 10,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 188,
+                    "iThirdGroup": 20,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 400,
+                    "iWorldGroup": 40
+                },
+                "iPropsGrade": 3,
+                "iPropsGroupNum": 10,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20275-1-android-1555764343.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20275-1-iphone-1555764345.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "奖杯",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "我可以摸你的奖杯吗？"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20273,
+                "sPropsName": "火锅",
+                "iPropsYb": 6600,
+                "iPropsGreenBean": 66000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 31680,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 1314,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "爱生活，爱火锅",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1__18_1532855632.jpg&39114512721fb16ae0e1f17f325e79b2",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1__24_1551927446.jpg&521992f70fb4748f1da49cb01e32b855",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1__gif_1532855632.gif&bc3018cdf4aff4143e4d1e28d84b1290",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1_0_prop_banner_1532855633.swf&1bbbd4426d14a15efd0300577e0211c5",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1_0_prop_h5_1532855633.webp&90f7d10eb85730f2c766143354197ba8",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1__45_1532855632.jpg&5010e5e3a71bac432df2efc3443a9f94",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1_0_prop_streamer_resource_1532855634.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1__108_1532855667.jpg&108b6c0aafd6c04f2d4560f5d3e17277",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20273_1_0_prop_pcclient_1532855634.zip&1b7f0dbffa7c243bb58920c4d6113ead"
+                        }
+                    ]
+                },
+                "iPropsWeights": 12,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 39,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 40,
+                    "iAllVideoMax": 1314,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 10,
+                    "iThirdGroup": 10,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 40,
+                    "iWorldGroup": 40
+                },
+                "iPropsGrade": 4,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20273-1-android-1555764514.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20273-1-iphone-1555764516.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "火锅",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "爱生活，爱火锅"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20279,
+                "sPropsName": "高能预警",
+                "iPropsYb": 8800,
+                "iPropsGreenBean": 88000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 42240,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 1314,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "前方高能预警！一大波弹幕袭来！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1__18_1532856203.jpg&bc1a6710988d6b52cfab53bf5c76d582",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1__24_1551927466.jpg&65ef3973fe37ac31f0c890ed0a625df9",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1__gif_1532856204.gif&e85239b0f142a4d6cdbd233c100706d9",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1_0_prop_banner_1532945078.swf&45eb393a71178ae5767c7e539b63faf6",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1_0_prop_h5_1532856204.webp&d377932135e10da5dc7324f2f3ccf9f4",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1__45_1532856204.jpg&57cd709055422d4314a7bb9bd99fedac",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1_0_prop_streamer_resource_1532856205.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1__108_1532856291.jpg&813e4c349e8df6148e55fc5fb2409909",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20279_1_0_prop_pcclient_1532856205.zip&4cf97b4e592a1e4c22c085ca40ffc910"
+                        }
+                    ]
+                },
+                "iPropsWeights": 10,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 24,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 25,
+                    "iAllVideoMax": 1314,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 10,
+                    "iThirdGroup": 10,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 25,
+                    "iWorldGroup": 25
+                },
+                "iPropsGrade": 4,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20279-1-android-1555764948.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20279-1-iphone-1555764953.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "高能预警",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "前方高能预警！一大波弹幕袭来！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20271,
+                "sPropsName": "魔法书",
+                "iPropsYb": 9900,
+                "iPropsGreenBean": 99000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 47520,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 1314,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "魔法，为我而存在",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1__18_1532854622.jpg&07941fdf11191cff1089bab8b21d2ae5",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1__24_1551927487.jpg&6afa31f817d21fa34bfe7a867a9aad1e",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1__gif_1532854641.gif&2103891fd3ddb2d5126333b30663f01c",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1_0_prop_banner_1532854623.swf&dd02b9825c7ec07207801371fda204ab",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "http://huyaimg.msstatic.com/cdnimage/actprop/20271_1_0_prop_faceu_1532855291.7z",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1_0_prop_h5_1532854624.webp&740c9770a0e62add12984fe835f27107",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1__45_1532854623.jpg&fcd09e662ddf7195b71cbd77822e6235",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1_0_prop_streamer_resource_1532854625.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1__108_1532855273.jpg&707490b0fbee1b0c39faaf6fe31f072d",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20271_1_0_prop_pcclient_1532854625.zip&831b1f58204a759c4e1cf969c9d608b1"
+                        }
+                    ]
+                },
+                "iPropsWeights": 8,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 24,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 25,
+                    "iAllVideoMax": 1314,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 10,
+                    "iThirdGroup": 10,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 25,
+                    "iWorldGroup": 25
+                },
+                "iPropsGrade": 6,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20271-2-android-1555945224.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20271-2-iphone-1555945222.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "魔法书",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "魔法，为我而存在"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 1
+            },
+            {
+                "iPropsId": 20267,
+                "sPropsName": "钞票枪",
+                "iPropsYb": 30000,
+                "iPropsGreenBean": 300000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 144000,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 400,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "si~si~si~",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1__18_1532853696.jpg&ff7775d114150c19296da8e09608705b",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1__24_1551927530.jpg&81572a866f2c8e35e50c95a91f40df27",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1__gif_1532853697.gif&d1771a7d752727f6c57a0682de87133c",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1_0_prop_banner_1532853698.swf&6d75686de72a4381d3c541be3362a52c",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1_0_prop_h5_1532853698.webp&da8450854e390001542b0efb9aeb9809",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1__45_1532853697.jpg&4b14cd0bd0726796df1b69f38211fa83",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1_0_prop_streamer_resource_1532853699.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1__108_1532853832.jpg&8a859ecf84b7cd7beed8f983d539cd6c",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20267_1_0_prop_pcclient_1532853699.zip&c874d2c97bef0c07801976bde65091df"
+                        }
+                    ]
+                },
+                "iPropsWeights": 6,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 9,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 10,
+                    "iAllVideoMax": 9999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 4,
+                    "iThirdGroup": 4,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 10,
+                    "iWorldGroup": 10
+                },
+                "iPropsGrade": 4,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20267-1-android-1555765323.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20267-1-iphone-1555765318.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "钞票枪",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "si~si~si~"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20269,
+                "sPropsName": "虎牙一号",
+                "iPropsYb": 100000,
+                "iPropsGreenBean": 1000000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 480000,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 100,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "火箭！发射！",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1__18_1537931124.jpg&3180545d08c003d1dddec4f43fafee67",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1__24_1551927552.jpg&6065670ebfb61c171a944f3742469560",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1__gif_1537931124.gif&d2a1552a06641cceebc08b750693ddeb",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1_0_prop_banner_1537931125.swf&3a606ca42920398858229ea4c4a66f17",
+                            "sPropsBannerSize": "720*120",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1_0_prop_h5_1537931125.webp&32a68171fc736f188cee71eb3f1abaca",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1__45_1537931124.jpg&238cef95d9f5318c8febf04b8f8610b6",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1_0_prop_streamer_resource_1537931127.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1__108_1537931192.jpg&66f3edbffcedbe711214062d946e984a",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20269_1_0_prop_pcclient_1537931126.zip&9ea3ebc5c5ba2c5090321aabd9b68292"
+                        }
+                    ]
+                },
+                "iPropsWeights": 4,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 4,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 5,
+                    "iAllVideoMax": 9999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 2,
+                    "iThirdGroup": 2,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 5,
+                    "iWorldGroup": 5
+                },
+                "iPropsGrade": 4,
+                "iPropsGroupNum": 1,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20269-1-android-1555765473.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20269-1-iphone-1555765471.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "虎牙一号",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "火箭！发射！"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 12,
+                "sPropsName": "藏宝图",
+                "iPropsYb": 499900,
+                "iPropsGreenBean": 5000000,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 2275000,
+                "iPropsRed": 49990,
+                "iPropsPopular": 49990,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 1,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "送出1张，触发世界横幅。",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1__18_1532944021.jpg&682475da6a8204c3c322c25048f69c98",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1__24_1551927570.jpg&c40b11ec191f22613d3f7a78a16f33ed",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1__gif_1532944022.gif&1f8194a1951524b6c75319cc60e2bb8b",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1_0_prop_banner_1532944023.swf&595574a556675b94da36235da09a13be",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "<prop_roll_content><text name=\"sender_nick\" color=\"3ED9FF\" /><text name=\"送给\" color=\"3ED9FF\" /><text name=\"receiver_nick\" color=\"3ED9FF\" /><text name=\"\" color=\"3ED9FF\" /><text name=\"item_count\" color=\"3ED9FF\" /><text name=\"个\" color=\"3ED9FF\" /><image name=\"prop_icon\" /></prop_roll_content>",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1_0_prop_h5_1535436978.webp&cd0483bd7f9b8f3a41c7f0ebbbcb0c53",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1__45_1532944022.jpg&e4f9a9762d1ea31480ac3430cabd24c5",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1_0_prop_streamer_resource_1532944024.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1__108_1532944030.jpg&d66c1d92e48a60eeed85089cd485913d",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/12_1_0_prop_pcclient_1532944024.zip&b2f6bd219a463b786dc7a9c8688af532"
+                        }
+                    ]
+                },
+                "iPropsWeights": 2,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 1,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 1,
+                    "iAllVideoMax": 2,
+                    "iCurrentScreenNum": 1,
+                    "iCurrentScreenMin": 1,
+                    "iCurrentScreenMax": 2
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 0,
+                    "iFirstGroup": 0,
+                    "sFirstTips": "",
+                    "iSecondSingle": 0,
+                    "iSecondGroup": 0,
+                    "sSecondTips": "",
+                    "iThirdSingle": 0,
+                    "iThirdGroup": 0,
+                    "sThirdTips": "",
+                    "iWorldSingle": 0,
+                    "iWorldGroup": 0
+                },
+                "iPropsGrade": 4,
+                "iPropsGroupNum": 0,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-12-1-android-1555765636.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-12-1-iphone-1555765634.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": []
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "藏宝图",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "送出1张，触发世界横幅。"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20313,
+                "sPropsName": "粉丝票.",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": []
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "冲冲冲！粉丝天下无敌",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1__18_1561602851.jpg&d62f5db76808c1e6dd4b425812c440e1",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1__24_1561602851.jpg&6d3c3a141f313ef46bceb12453a53294",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1__gif_1561602852.gif&f39d75542eb89f8b7064dae6a1b3832c",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1_0_prop_banner_1561602852.swf&00e1acd1c058a3b3c5b0aae76bab840d",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1_0_prop_h5_1561648760.webp&d3a7b702f301f0a3eafe54ebc494a275",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1__45_1561602852.jpg&dbb92ca97ad970117407e1620a93e0bc",
+                            "sWitch": 0,
+                            "sCornerMark": "",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1_0_prop_streamer_resource_1561602853.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1__108_1561649033.jpg&0ffea18f37602e62ef63d6b622946f44",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20313_1_0_prop_pcclient_1561602853.zip&b9c8e3264b74664f121ab1d40cd93a1b"
+                        }
+                    ]
+                },
+                "iPropsWeights": 1,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 2,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 2,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20313-1-android-1561648896.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20313-1-iphone-1561648978.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": [
+                        50077082
+                    ]
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "粉丝票.",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "冲冲冲！粉丝天下无敌"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            },
+            {
+                "iPropsId": 20305,
+                "sPropsName": "鸡你太美",
+                "iPropsYb": 10,
+                "iPropsGreenBean": 100,
+                "iPropsWhiteBean": -1,
+                "iPropsGoldenBean": 48,
+                "iPropsRed": 0,
+                "iPropsPopular": 0,
+                "iPropsExpendNum": -1,
+                "iPropsFansValue": 0,
+                "vPropsNum": {
+                    "proto": {},
+                    "value": [
+                        1,
+                        10,
+                        30,
+                        66,
+                        188,
+                        520,
+                        1314
+                    ]
+                },
+                "iPropsMaxNum": 9999,
+                "iPropsBatterFlag": 0,
+                "vPropsChannel": {
+                    "proto": {},
+                    "value": []
+                },
+                "sPropsToolTip": "喜欢唱、跳、看直播~",
+                "vPropsIdentity": {
+                    "proto": {
+                        "iPropsIdType": 0,
+                        "sPropsPic18": "",
+                        "sPropsPic24": "",
+                        "sPropsPicGif": "",
+                        "sPropsBannerResource": "",
+                        "sPropsBannerSize": "",
+                        "sPropsBannerMaxTime": "",
+                        "sPropsChatBannerResource": "",
+                        "sPropsChatBannerSize": "",
+                        "sPropsChatBannerMaxTime": "",
+                        "iPropsChatBannerPos": 0,
+                        "iPropsChatBannerIsCombo": 0,
+                        "sPropsRollContent": "",
+                        "iPropsBannerAnimationstyle": 0,
+                        "sPropFaceu": "",
+                        "sPropH5Resource": "",
+                        "sPropsWeb": "",
+                        "sWitch": 0,
+                        "sCornerMark": "",
+                        "iPropViewId": 0,
+                        "sPropStreamerResource": "",
+                        "iStreamerFrameRate": 0,
+                        "sPropsPic108": "",
+                        "sPcBannerResource": ""
+                    },
+                    "value": [
+                        {
+                            "iPropsIdType": 0,
+                            "sPropsPic18": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1__18_1558088604.jpg&d9e1f010e60127d4aca10ec78acf32a4",
+                            "sPropsPic24": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1__24_1558088605.jpg&d86f10193d765f5641b07dcb4d2516a4",
+                            "sPropsPicGif": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1__gif_1558088605.gif&a2b487215c721a500f64656bc7d8c0fd",
+                            "sPropsBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1_0_prop_banner_1558088605.swf&80d77c0f47678f834ab49089fb7198c2",
+                            "sPropsBannerSize": "720*140",
+                            "sPropsBannerMaxTime": "8000",
+                            "sPropsChatBannerResource": "",
+                            "sPropsChatBannerSize": "",
+                            "sPropsChatBannerMaxTime": "50000",
+                            "iPropsChatBannerPos": 0,
+                            "iPropsChatBannerIsCombo": 0,
+                            "sPropsRollContent": "",
+                            "iPropsBannerAnimationstyle": 0,
+                            "sPropFaceu": "",
+                            "sPropH5Resource": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1_0_prop_h5_1558088606.webp&171c63797731b9a94cc997b066536f6e",
+                            "sPropsWeb": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1__45_1558088605.jpg&c55f0bf5eb186c56b097c3127e2165d1",
+                            "sWitch": 0,
+                            "sCornerMark": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1_0_prop_corner_mark_1559049401.png",
+                            "iPropViewId": 1,
+                            "sPropStreamerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1_0_prop_streamer_resource_1558088606.png",
+                            "iStreamerFrameRate": 10,
+                            "sPropsPic108": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1__108_1558088918.jpg&22625432c0c90b261a70fd2c7488ff3c",
+                            "sPcBannerResource": "https://huyaimg.msstatic.com/cdnimage/actprop/20305_1_0_prop_pcclient_1558088606.zip&46970aec137bd4c858eaacb1e60d72be"
+                        }
+                    ]
+                },
+                "iPropsWeights": 1,
+                "iPropsLevel": 0,
+                "tDisplayInfo": {
+                    "iMarqueeScopeMin": 1,
+                    "iMarqueeScopeMax": 26399,
+                    "iCurrentVideoNum": 0,
+                    "iCurrentVideoMin": 0,
+                    "iCurrentVideoMax": 0,
+                    "iAllVideoNum": 1,
+                    "iAllVideoMin": 26400,
+                    "iAllVideoMax": 99999,
+                    "iCurrentScreenNum": 0,
+                    "iCurrentScreenMin": 0,
+                    "iCurrentScreenMax": 0
+                },
+                "tSpecialInfo": {
+                    "iFirstSingle": 520,
+                    "iFirstGroup": 10,
+                    "sFirstTips": "普通特效",
+                    "iSecondSingle": 5200,
+                    "iSecondGroup": 100,
+                    "sSecondTips": "中级特效",
+                    "iThirdSingle": 9999,
+                    "iThirdGroup": 200,
+                    "sThirdTips": "高级特效",
+                    "iWorldSingle": 26400,
+                    "iWorldGroup": 400
+                },
+                "iPropsGrade": 2,
+                "iPropsGroupNum": 66,
+                "sPropsCommBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_1459340459.swf&7a9dfdd9c8082fbe257c864f428e966d",
+                "sPropsOwnBannerResource": "http://huyaimg.msstatic.com/cdnimage/actprop/own_banner_resource_1459340460.swf&e361c12323b6c89e61a4c05e181db6ca",
+                "iPropsShowFlag": 1,
+                "iTemplateType": 227,
+                "iShelfStatus": 1,
+                "sAndroidLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20305-1-android-1558088735.zip",
+                "sIpadLogo": "",
+                "sIphoneLogo": "http://livewebbs2.msstatic.com/YYapp-identity-20305-1-iphone-1558088782.zip",
+                "sPropsCommBannerResourceEx": "https://huyaimg.msstatic.com/cdnimage/actprop/comm_banner_resource_v2_1548941237.dll&2ddc602e0dd84d928a79ca2502e96c9c",
+                "sPropsOwnBannerResourceEx": "",
+                "vPresenterUid": {
+                    "proto": {},
+                    "value": [
+                        923822852
+                    ]
+                },
+                "vPropView": {
+                    "proto": {
+                        "id": 0,
+                        "name": "",
+                        "uids": {
+                            "kproto": {},
+                            "vproto": {},
+                            "value": {}
+                        },
+                        "tips": ""
+                    },
+                    "value": [
+                        {
+                            "id": 1,
+                            "name": "鸡你太美",
+                            "uids": {
+                                "kproto": {},
+                                "vproto": {},
+                                "value": {}
+                            },
+                            "tips": "喜欢唱、跳、看直播~"
+                        }
+                    ]
+                },
+                "iFaceUSwitch": 2
+            }
+        ]
+    },
+    "sMd5": "",
+    "iNewEffectSwitch": 0,
+    "iMirrorRoomShowNum": 0,
+    "iGameRoomShowNum": 0
+}
